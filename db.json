@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "alex",
+      "lastName": "smith",
+      "email": "smith88@gmail.com",
+      "mobile": "9087554854",
+      "salary": "$70,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Albert",
+      "lastName": "Nino",
+      "email": "test@gmail.com",
+      "mobile": "123456789",
+      "salary": "$67000"
+    },
+    {
+      "id": 4,
+      "firstName": "Frank",
+      "lastName": "Sinatra",
+      "email": "test@gmail.com",
+      "mobile": "123345678",
+      "salary": "$60,000"
+    },
+    {
+      "id": 5,
+      "firstName": "Tess",
+      "lastName": "Roddrigo",
+      "email": "123@123",
+      "mobile": "123445678",
+      "salary": "@50,000"
+    },
+    {
+      "id": 6,
+      "firstName": "Jess",
+      "lastName": "Norris",
+      "email": "123@123",
+      "mobile": "1234567788",
+      "salary": "$50,000"
+    },
+    {
+      "id": 8,
+      "firstName": "daryl",
+      "lastName": "peteers",
+      "email": "peters@gmail.com",
+      "mobile": "123456789",
+      "salary": "600"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
